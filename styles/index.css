@@ -1,0 +1,46 @@
+.grid__container {
+    display: grid;
+    grid-template-columns: ;
+    grid-template-rows: ;
+
+}
+.grid__element1 {
+    background: #007F5F;
+
+}
+.grid__element2 {
+    background: #2B9348;
+
+}
+.grid__element3 {
+    background: #55A630;
+}
+.grid__element4 {
+    background: #80B918;
+}
+.grid__element5 {
+    background: #AC0;
+}
+.grid__element6 {
+    background: #BFD200;
+}
+.grid__element7 {
+    background: #DDDF00;
+    
+}
+.grid__element8 {
+    background: #EEEF20;
+    
+}
+.grid__element9 {
+    background: #FFFF3F;
+    
+}
+.grid__element10 {
+    background: #D4D700;
+    
+}
+.grid__element11 {
+    background: #007F5F;
+    
+}
